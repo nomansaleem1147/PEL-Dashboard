@@ -1,0 +1,8 @@
+GITHUB UPLOAD CHECKLIST
+
+1. Review README.md and confirm you are authorized to publish the application.
+2. Check that no confidential GIS data, credentials, tokens, or private company files are present.
+3. Upload the contents of this folder to a new GitHub repository named PEL-Assets-Dashboard.
+4. Keep uploads/ and processed/ empty in the repository.
+5. Add only approved logo files and sanitized screenshots.
+6. Do not upload .venv/.
